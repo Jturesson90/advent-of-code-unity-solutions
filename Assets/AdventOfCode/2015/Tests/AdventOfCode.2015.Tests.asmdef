@@ -1,0 +1,12 @@
+{
+  "name": "AdventOfCode.2015.Tests",
+  "references": [
+    "AdventOfCode.2015"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ]
+}

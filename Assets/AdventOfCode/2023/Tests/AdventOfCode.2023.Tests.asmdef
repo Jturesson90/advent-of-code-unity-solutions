@@ -1,0 +1,12 @@
+{
+	"name": "AdventOfCode.2023.Tests",
+	"references": [
+		"AdventOfCode.2023"
+	],
+	"optionalUnityReferences": [
+		"TestAssemblies"
+	],
+	"includePlatforms": [
+		"Editor"
+	]
+}
